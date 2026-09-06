@@ -16,6 +16,8 @@
 </td>
 <td width="55%" valign="top">
 
+<div align="center">
+
 ### 🛠️ Tech Stack
 
 **Frontend & Mobile**
@@ -29,6 +31,8 @@
 
 **Database**
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database">
+
+</div>
 
 </td>
 </tr>
@@ -69,11 +73,15 @@
 
 ### 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-yimsukanan.p%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yimsukanan.p@gmail.com)
-<br>
-[![Phone](https://img.shields.io/badge/Phone-098--284--1227-34A853?style=for-the-badge&logo=phone&logoColor=white)](tel:098-284-1227)
-<br>
-[![Location](https://img.shields.io/badge/Location-Rama_2%2C_Bangkok-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<div align="left">
+
+[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:yimsukanan.p@gmail.com)
+&nbsp;
+[![Phone](https://img.shields.io/badge/-34A853?style=for-the-badge&logo=phone&logoColor=white&label=)](tel:098-284-1227)
+&nbsp;
+[![Location](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&label=)](https://maps.google.com/?q=Rama+2,+Bangkok)
+
+</div>
 
 </td>
 </tr>
