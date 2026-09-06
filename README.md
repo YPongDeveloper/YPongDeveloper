@@ -20,16 +20,12 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend & Mobile**
-<img src="https://skillicons.dev/icons?i=react,ts,tailwindcss,flutter,figma" alt="Frontend">
-
-**Backend**
+<img src="https://skillicons.dev/icons?i=react,ts,tailwindcss,flutter,figma" alt="Frontend & Mobile">
+<br>
 <img src="https://skillicons.dev/icons?i=go,java,spring" alt="Backend">
-
-**DevOps & Cloud**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,linux" alt="DevOps">
-
-**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,linux" alt="DevOps & Cloud">
+<br>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database">
 
 </div>
