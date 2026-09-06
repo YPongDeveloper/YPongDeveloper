@@ -71,11 +71,24 @@
 
 <div align="left">
 
-[![Email](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=)](mailto:yimsukanan.p@gmail.com)
-&nbsp;
-[![Phone](https://img.shields.io/badge/-34A853?style=for-the-badge&logo=phone&logoColor=white&label=)](tel:098-284-1227)
-&nbsp;
-[![Location](https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&label=)](https://maps.google.com/?q=Rama+2,+Bangkok)
+<p>
+<a href="mailto:yimsukanan.p@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" align="absmiddle" alt="Email">
+&nbsp;&nbsp;<b>yimsukanan.p@gmail.com</b>
+</a>
+</p>
+
+<p>
+<a href="tel:098-284-1227">
+<img src="https://cdn.simpleicons.org/googlemessages/34A853" width="28" align="absmiddle" alt="Phone">
+&nbsp;&nbsp;<b>098-284-1227</b>
+</a>
+</p>
+
+<p>
+<img src="https://cdn.simpleicons.org/googlemaps/4285F4" width="28" align="absmiddle" alt="Location">
+&nbsp;&nbsp;<b>Rama 2, Bangkok</b>
+</p>
 
 </div>
 
